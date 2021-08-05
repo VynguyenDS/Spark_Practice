@@ -1,0 +1,9 @@
+{
+	"name": "Datatapipelines2021",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "98e6210e-f1ee-43c2-b408-fcc0f65907be",
+		"tenantId": "e9cab6ca-c46d-43a9-83f2-85a8ac1364a8"
+	}
+}
